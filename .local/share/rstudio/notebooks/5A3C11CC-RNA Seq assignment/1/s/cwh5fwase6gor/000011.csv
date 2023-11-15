@@ -1,0 +1,3 @@
+"0","dir.create(""/home/rstudio/counts"")"
+"0","write.table(counts, ""/home/rstudio/normalised_counts.txt"", sep=""\t"", quote = F)"
+"0","write.table(log2_counts, ""/home/rstudio/log2_counts.txt"", sep=""\t"", quote = F)"

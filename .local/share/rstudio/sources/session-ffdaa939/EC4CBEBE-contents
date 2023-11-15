@@ -1,0 +1,7 @@
+Sample,condition,replicate
+control1,Control,1
+control2,Control,2
+control3,Control,3
+tumour1,Tumour,1
+tumour2,Tumour,2
+tumour3,Tumour,3
